@@ -7208,6 +7208,7 @@ ${f}*Jam* : ${jam} WIB
 │${setv} ${prefix}addlimit
 │${setv} ${prefix}adduang
 │${setv} ${prefix}bot settings
+│${setv} ${prefix}bot --settings
 │${setv} ${prefix}getsession
 │${setv} ${prefix}delsession
 │${setv} ${prefix}delsampah
