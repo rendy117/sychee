@@ -1,4 +1,4 @@
 [{
-  nameBot: "RenzzBotz",
+  nameBot: "RenzzBot",
   nameown: "renzz"
 }]
