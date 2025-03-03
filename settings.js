@@ -9,7 +9,7 @@ const chalk = require('chalk');
 //settings owner di ./setown.js
 global.packname = 'RenzzBot'
 global.owner = ["6289531048225"]
-global.botnum = ["6289531048225"]
+global.botnum = ["6283832755894"]
 global.author = 'renzz'
 global.owname = 'renzz'
 global.botname = 'RENZZ BOT'
@@ -47,7 +47,7 @@ global.uang = {
 	vip: 10000000
 }
 global.mess = {
-	key0: 'Apikey mu telah habis silahkan kunjungi\nhttps://my.hitori.pw',
+	key0: 'apikey mu telah habis silahkan kunjungi\nhttps://my.hitori.pw',
 	owner: 'anda bukan owner',
 	admin: 'khusus admin grup!',
 	botAdmin: 'bot harus menjadi admin terlebih dahulu',
