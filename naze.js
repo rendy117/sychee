@@ -1940,7 +1940,7 @@ for (const emoji of reactEmojis) {
 							buttons: [{
 								"name": "cta_url",
 								"buttonParamsJson": JSON.stringify({
-									display_text: `Owner (yDa🔱)`, //ganti jadi (${owname})
+									display_text: `Owner (renzz)`, //ganti jadi (${owname})
 									url: `https://wa.me/+${owner}`
 								})
 							}]
@@ -1986,7 +1986,7 @@ for (const emoji of reactEmojis) {
 										text: "Berikut ada kontak owner dan bot, silakan hubungi jika diperlukan! ✨📱"
 									},
 									footer: {
-										text: "Sych Bot"
+										text: "Renzz Bot"
 									},
 									header: {
 										hasMediaAttachment: false
